@@ -1,4 +1,4 @@
-# BCQA — Brightfield Cell Quality Assay
+# BCQA0.0.2 — Collecting_Training_Running 
 
 BCQA is a lightweight **AI-assisted cell morphology analysis tool** for bright-field microscopy.  
 It performs **cell segmentation, morphology quantification, thickness heatmap visualization, and automated non-cell filtering using a trained Random Forest classifier.**
