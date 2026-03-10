@@ -46,7 +46,7 @@ These features are used by a **RandomForestClassifier** to distinguish:
 
 These features are used by a **RandomForestClassifier** to distinguish cell types.
 
-| Feature distribution | Feature correlation |
+| Training Session Panel | Feature correlation |
 |:--------------------:|:-------------------:|
 | ![](https://github.com/user-attachments/assets/34ee0844-4a8f-4a9e-aff9-45a5653404d6) | ![](https://github.com/user-attachments/assets/5a56dcb2-9841-42a2-8526-fbdde5ec9f73) |
 
